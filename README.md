@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catamf
 - 👀 I’m interested in tax fraud detection with machine learning
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on public sector
 - 📫 How to reach me ...
 
 <!---
